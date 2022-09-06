@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BddArticle"
 include ':app'
+include ':databinding'
