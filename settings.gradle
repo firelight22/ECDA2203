@@ -16,3 +16,4 @@ rootProject.name = "BddArticle"
 include ':app'
 include ':databinding'
 include ':okhttp'
+include ':tpdoghttp'
